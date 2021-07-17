@@ -1,0 +1,21 @@
+#container{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #999;
+  max-width: 100%;
+  background-color: green;
+  text-align: center;
+}
+td{
+  border: 1px solid #fff;
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+}
